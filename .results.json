@@ -5,22 +5,22 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2024-07-25T11:22:23.932Z",
-    "end": "2024-07-25T11:22:24.275Z",
-    "duration": 343
+    "start": "2026-01-23T09:57:09.548Z",
+    "end": "2026-01-23T09:57:09.846Z",
+    "duration": 298
   },
   "tests": [
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -41,7 +41,7 @@
     {
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -59,14 +59,14 @@
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,7 +87,7 @@
     {
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
